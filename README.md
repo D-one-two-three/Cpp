@@ -1,5 +1,22 @@
 # Cpp
+Таски Котовой Анны 
 
+На момент релиза, группа : П-22-3-2
+
+------------------------------------------------------------------------------
+
+# Разделы и Таски
+
+> ⚡ТаскПаки📂 
+>
+>> [📚Первый таскпак](#taskpack1)
+>>
+>> [🍱Второй таскпак](#taskpack2)
+
+
+# 📚 Первый таскпак 
+
+### taskpack1
 ## 1
 ![](https://github.com/D-one-two-three/Cpp/blob/main/scr/1.PNG)
 
@@ -74,3 +91,71 @@
 
 ## 25
 ![](https://github.com/D-one-two-three/Cpp/blob/main/scr/25.PNG)
+
+
+---------------------------------------------------------------------------
+
+# 🍱 Второой таскпак 
+
+### taskpack2
+
+
+## 1
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/1.PNG)
+
+## 2
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/2.PNG)
+
+## 3
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/3.PNG)
+
+## 4
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/4.PNG)
+
+## 5
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/5.PNG)
+
+## 6
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/6.PNG)
+
+## 7
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/7.PNG)
+
+## 8
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/8.PNG)
+
+## 9
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/9.PNG)
+
+## 10
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/10.PNG)
+
+## 11
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/11.PNG)
+
+## 12
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/12.PNG)
+
+## 13
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/13.PNG)
+
+## 14
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/14.PNG)
+
+## 15
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/15.PNG)
+
+## 16
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/16.PNG)
+
+## 17
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/17.PNG)
+
+## 18
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/18.PNG)
+
+## 19
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/19.PNG)
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work2/20.PNG)
