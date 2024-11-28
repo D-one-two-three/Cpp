@@ -12,6 +12,8 @@
 >> [📚Первый таскпак](#taskpack1)
 >>
 >> [🍱Второй таскпак](#taskpack2)
+>>
+>> [🍱Третий таскпак](#taskpack3)
 
 
 # 📚 Первый таскпак 
@@ -159,3 +161,86 @@
 
 ## 20
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work2/20.PNG)
+
+---------------------------------------------------------------------------
+
+# 🍱 Третий таскпак 
+
+### taskpack3
+
+
+## 1
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/1.PNG)
+
+## 2
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/2.PNG)
+
+## 3
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/3.PNG)
+
+## 4
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/4.PNG)
+
+## 5
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/5.PNG)
+
+## 6
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/6.PNG)
+
+## 7
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/7.PNG)
+
+## 8
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/8.PNG)
+
+## 9
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/9.PNG)
+
+## 10
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/10.PNG)
+
+## 11
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/11.PNG)
+
+## 12
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/12.PNG)
+
+## 13
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/13.PNG)
+
+## 14
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/14.PNG)
+
+## 15
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/15.PNG)
+
+## 16
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/16.PNG)
+
+## 17
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/17.PNG)
+
+## 18
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/18.PNG)
+
+## 19
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/19.PNG)
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/20.PNG)
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/21.PNG)
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/22.PNG)
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/23.PNG)
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/24.PNG)
+
+
+## 20
+![](https://github.com/D-one-two-three/Cpp/blob/main/work3/25.PNG)
