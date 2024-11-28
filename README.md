@@ -229,18 +229,17 @@
 ## 20
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work3/20.PNG)
 
-## 20
+## 21
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work3/21.PNG)
 
-## 20
+## 22
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work3/22.PNG)
 
-## 20
+## 23
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work3/23.PNG)
 
-## 20
+## 24
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work3/24.PNG)
 
-
-## 20
+## 25
 ![](https://github.com/D-one-two-three/Cpp/blob/main/work3/25.PNG)
